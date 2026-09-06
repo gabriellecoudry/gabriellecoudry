@@ -1,22 +1,68 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1A,50:14213D,100:0057B7&height=200&section=header&text=Gabrielle%20Coudry&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Epitech%20Paris%20%7C%20Promo%202031&descAlignY=55&descSize=18&descColor=B0C4DE"/></div><br>⌘ About
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/gabriellecoudry/gabriellecoudry/main/assets/cute-bear.svg" width="130"/>
 
-<br>⌘ Tech Stack
-<div align="center"><img src="https://img.shields.io/badge/C-0057B7?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-0057B7?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-0057B7?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-0057B7?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-0057B7?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-0057B7?style=for-the-badge&logo=git&logoColor=white"/></div><br>
+<img src="https://readme-typing-svg.demolab.com?font=Mochiy+Pop+One&size=45&pause=1000&color=D291BC&center=true&vCenter=true&width=500&height=70&lines=Gabrielle+Coudry"/>
 
-<br>⌘ GitHub Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gabriellecoudry&show_icons=true&theme=midnight-purple&hide_border=true&title_color=0057B7&icon_color=0057B7&text_color=B0C4DE&bg_color=0F0F1A"/></div><br>⌘ Contact
-<div align="center"><a href="https://github.com/gabriellecoudry">
-<img src="https://img.shields.io/badge/GitHub-0F0F1A?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=B08BC9&center=true&vCenter=true&width=440&lines=Epitech+Paris+%7C+Promo+2031;Bienvenue+sur+mon+profil+%F0%9F%A7%B8"/>
+
+</div>
+
+<br>
+
+### ⋆｡˚ ᡣ𐭩 About
+
+<div align="center">
+
+🧸 Étudiante en 1ère année à **Epitech Paris**, promo 2031
+💻 Passionnée par le développement web, la cybersécurité et le C
+🎀 J'aime coder des projets propres, bien pensés... et jolis !
+
+</div>
+
+<div align="center">
+
+╰┈➤ ⋆｡˚ ☁︎ ˚｡⋆ ୨୧ ⋆｡˚ ☁︎ ˚｡⋆ ⟵╮
+
+</div>
+
+### ⋆｡˚ ᡣ𐭩 Tech Stack
+
+<div align="center">
+<img src="https://img.shields.io/badge/C-FFB3D9?style=for-the-badge&logo=c&logoColor=5A2A45"/>
+<img src="https://img.shields.io/badge/Linux-D9C2F0?style=for-the-badge&logo=linux&logoColor=4A2E5C"/>
+<img src="https://img.shields.io/badge/TypeScript-C2D9F0?style=for-the-badge&logo=typescript&logoColor=2E4A5C"/>
+<img src="https://img.shields.io/badge/Node.js-C2F0D9?style=for-the-badge&logo=node.js&logoColor=2E5C42"/>
+<img src="https://img.shields.io/badge/MySQL-F0D9C2?style=for-the-badge&logo=mysql&logoColor=5C4A2E"/>
+<img src="https://img.shields.io/badge/Git-F0C2D9?style=for-the-badge&logo=git&logoColor=5C2E42"/>
+</div>
+
+<div align="center">
+
+╰┈➤ ⋆｡˚ ☁︎ ˚｡⋆ ୨୧ ⋆｡˚ ☁︎ ˚｡⋆ ⟵╮
+
+</div>
+
+### ⋆｡˚ ᡣ𐭩 Contact
+
+<div align="center">
+<a href="https://github.com/gabriellecoudry">
+<img src="https://img.shields.io/badge/GitHub-2D2438?style=for-the-badge&logo=github&logoColor=FFD6E8"/>
 </a>
 <a href="https://gabriellecoudry.github.io">
-<img src="https://img.shields.io/badge/Portfolio-0057B7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-D291BC?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/gabrielle-coudry-65a3ab377/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a></div><br><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0057B7,50:14213D,100:0F0F1A&height=100&section=footer"/></div>
+<img src="https://img.shields.io/badge/LinkedIn-A78BC9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/gabriellecoudry/gabriellecoudry/main/assets/cute-bear.svg" width="110"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Mochiy+Pop+One&size=28&pause=1200&color=C9A0D1&center=true&vCenter=true&width=420&height=45&lines=Merci+de+ta+visite+%E2%9C%A8"/>
+
+</div>
