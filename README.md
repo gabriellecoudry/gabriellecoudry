@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gabriellecoudry/gabriellecoudry/main/assets/cute-bear.svg" width="130"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Mochiy+Pop+One&size=45&pause=1000&color=D291BC&center=true&vCenter=true&width=500&height=70&lines=Gabrielle+Coudry"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=B08BC9&center=true&vCenter=true&width=440&lines=Epitech+Paris+%7C+Promo+2031;Bienvenue+sur+mon+profil+%F0%9F%A7%B8"/>
@@ -60,8 +58,6 @@
 <br>
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/gabriellecoudry/gabriellecoudry/main/assets/cute-bear.svg" width="110"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Mochiy+Pop+One&size=28&pause=1200&color=C9A0D1&center=true&vCenter=true&width=420&height=45&lines=Merci+de+ta+visite+%E2%9C%A8"/>
 
